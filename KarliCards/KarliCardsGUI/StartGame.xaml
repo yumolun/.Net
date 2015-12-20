@@ -27,6 +27,5 @@
         <Label x:Name="newPlayerLabel" Content="New Player" HorizontalAlignment="Left" Margin="246,19,0,0" Grid.Row="2" VerticalAlignment="Top"/>
         <TextBox x:Name="newPlayerTextBox" HorizontalAlignment="Left" Height="17" Margin="246,50,0,0" Grid.Row="2" TextWrapping="NoWrap" VerticalAlignment="Top" Width="154"/>
         <Button x:Name="addButton" Content="Add" HorizontalAlignment="Left" Margin="355,79,0,0" Grid.Row="2" VerticalAlignment="Top" Width="45" Height="18" FontSize="10" Click="addButton_Click"/>
-
     </Grid>
 </Window>
